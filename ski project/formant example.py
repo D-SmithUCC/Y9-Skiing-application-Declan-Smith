@@ -1,8 +1,6 @@
 from tkinter import *
 from tkinter import filedialog
 from PIL import ImageTk,Image
-from requests import *
-from bs4 import BeautifulSoup
 import webbrowser
 root = Tk()
 
