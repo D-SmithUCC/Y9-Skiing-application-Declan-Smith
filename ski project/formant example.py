@@ -17,6 +17,9 @@ def myfunction(event):
 def airfares(event):
     root2= Tk()
 
+def runcode(event):
+        if (snowinf.get() ==""):
+            print('This is not the data you are looking for')
 
 def hotel_costs(event):
     root3 = Tk()
