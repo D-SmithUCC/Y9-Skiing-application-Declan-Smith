@@ -127,7 +127,7 @@ can2.grid(row= 1, column=3)
 
 
 
-snowrl= Label(topframe,font="Times 24 bold ", bg='#7126A2', text= 'Each card has information on a given resort\nand is linked to an online webpage\n with real-time iformation on snowfall')
+snowrl= Label(topframe,font="Times 24 bold ", bg='#7126A2', text= 'Each card has information on a given resort\nand is linked to an online webpage\n with real-time data on snowfall')
 snowrl.grid( row=0, column=1)
 
 
